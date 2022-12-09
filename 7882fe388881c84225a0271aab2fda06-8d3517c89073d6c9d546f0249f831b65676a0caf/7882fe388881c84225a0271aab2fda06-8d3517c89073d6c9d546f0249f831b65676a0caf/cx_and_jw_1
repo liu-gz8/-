@@ -1,0 +1,156 @@
+'__LASTFOCUS':'',
+'__VIEWSTATE': 'dBNBdWsGXOCvNJgzdQtj+dUliNnHA9t+hZlsI6+Zf9xhw7HKPkMM6Qy3v8zv4BChtlFfqw==',
+'__VIEWSTATEGENERATOR': '9BD98A7D',
+'__EVENTTARGET':'',
+'__EVENTARGUMENT':'',
+'txtUserName': '3190435022',
+'TextBox2': 'JiangZe199956@',
+'txtSecretCode': 'cvqj',
+'RadioButtonList1': '教师',
+'Button1': '登录',
+
+__LASTFOCUS:
+__VIEWSTATE: AsFMUUmxsJmr4xZTWr9CDHLRadtnWzLrE2nkC2CasVG6MYrbVe2yXE287gftyYmvGXC8QA==
+__VIEWSTATEGENERATOR: 9BD98A7D
+__EVENTTARGET:
+__EVENTARGUMENT:
+txtUserName: 3190435022
+TextBox2: JiangZe199956@
+txtSecretCode: yrbw
+RadioButtonList1: 学生
+Button1: 登录
+
+Educational_administration_system
+pip install muggle-ocr
+
+courseid: 216693320
+clazzid: -1
+cpi: 98327366
+ut: t
+questionid: 881147570
+
+courseid: 216693320
+clazzid: -1
+cpi: 98327366
+ut: t
+questionid: 881147571
+edit: false
+
+
+'courseId': ,
+'classId': ,
+'ut': 't',
+'examsystem': '0',
+'cpi': ,
+'openc': ,
+
+'courseId': '216693320',
+'classId': '37086995',
+'position': 'test',
+'pid': '0',
+'paperId': '0',
+'examsystem': '0',
+'isCustomPaper': 'false',
+'cpi': '',
+'openc': 'a49c881dd0dd2c7a9c80b7b472bce58f',
+'createPaperType': '1'
+
+'courseId': '216693320',
+'classId': '37086995',
+'pid': '0',
+'examsystem': '0',
+'workSystem': '0',
+'cpi': '98327366',
+'openc': 'a49c881dd0dd2c7a9c80b7b472bce58f',
+'qbanksystem': '0',
+
+
+'courseId': '216693320',
+'start': '0',
+'examsystem': '0',
+'isCustomPaper': 'false',
+'cpi': '98327366',
+'openc': 'a49c881dd0dd2c7a9c80b7b472bce58f',
+'qbanksystem': '0',
+'qbankbackurl':'' ,
+
+"classId": "37086995",
+"courseId": "216693320",
+"status": "0",
+"ut": "t",
+"examsystem": "0",
+"workSystem": "0",
+"cpi": "98327366",
+openc: "a49c881dd0dd2c7a9c80b7b472bce58f",
+
+
+"courseId": 216693320
+"classId": 37086995
+"qType": -1
+"eType": -1
+"useNum": -1
+"topicId": -1
+"createUserId": -1
+"createUserName":
+"start": 2
+"totalPageNum": "2"
+"size": "20"
+"pid": "0"
+"ut": "t"
+"location": "search"
+"sw": ""
+"personId": "98327366"
+"examsystem": "0"
+"qbanksystem": "0"
+"workSystem": "0"
+"cpi": "98327366"
+"openc": "a49c881dd0dd2c7a9c80b7b472bce58f"
+"importQuestionEnc": "69067831c627b0b55fd3647b942451cb"
+"moocImportExportUrl": "https://mooc-import-export-ans.chaoxing.com"
+"batchMove": "false"
+
+from http import cookiejar
+from requests.utils import dict_from_cookiejar
+# with open('chaoxing_cookies.txt','r') as f:
+#     t = f.read()
+# dic = dict_from_cookiejar(cookiejar.LWPCookieJar(t))
+# print(dic)
+
+
+('一、单选题', '（共4题，20分）')
+('1、', '积分', 'https://p.ananas.chaoxing.com/star3/origin/3edd545f139eb276185088987e0856d3.png', '的值为( )（5分）')
+{'选项': [['A、', 'https://p.ananas.chaoxing.com/star3/origin/4c515e05850b1fcd5e40eef387915c20.png'], ['B、', '2'], ['C、', 'https://p.ananas.chaoxing.com/star3/origin/760b22eadc309830b1865b9138c7902e.png'], ['D、', 'https://p.ananas.chaoxing.com/star3/origin/8966107434c9343ddde518e737ba8553.png']], '答案或分析': 'B'}
+('2、', '3133123', '（5分）')
+{'选项': [['A、', '312312'], ['B、', '21321'], ['C、', '32131231233'], ['D、', '3213123']], '答案或分析': 'B'}
+('3、', '3', '（5分）')
+{'选项': [['A、', '32'], ['B、', '1321'], ['C、', '3122132'], ['D、', '231321321']], '答案或分析': 'D'}
+('4、', '以下关于级数的命题不正确的是( )（5分）')
+{'选项': [['A、', '级数', 'https://p.ananas.chaoxing.com/star3/origin/b403b770c9a72ebd6bf660d3279c2f65.png', '是绝对收敛的'], ['B、', '级数', 'https://p.ananas.chaoxing.com/star3/origin/61bce375dc25e41bacad9f8f61347e26.png', '是收敛的'], ['C、', '在收敛圆内,幂级数绝对收敛'], ['D、', '在收敛圆周上,条件收敛']], '答案或分析': 'B'}
+('二、填空题', '（共4题，20分）')
+('1、', '下列等式中,不成立的等式是____', 'https://p.ananas.chaoxing.com/star3/origin/f4fd9ca857a90d74aa91c121bf0a1082.png', ' ', 'https://p.ananas.chaoxing.com/star3/origin/6eea0bd3f2e19425e2e9fb38be3928e0.png', 'https://p.ananas.chaoxing.com/star3/origin/7e25c376b2e4c5887e08a7072365a59a.png', ' ', 'https://p.ananas.chaoxing.com/star3/origin/ed7eb5d69b06506e1045f2eaf0994723.png', '（5分）')
+{'选项': [], '答案或分析': 'C'}
+('2、', '已知', 'https://p.ananas.chaoxing.com/star3/origin/561db01e3208c6143c12dd7c17f92d77.png', '在复平面上可导,则', 'https://p.ananas.chaoxing.com/star3/origin/674d97b7f8d4a068ca2f72716a7ba7fc.png', '____.（5分）')
+{'选项': [], '答案或分析': '1'}
+('3、', '设', 'https://p.ananas.chaoxing.com/star3/origin/313dd9e0c9fe51c201f40bbae406b79c.png', ',求', 'https://p.ananas.chaoxing.com/star3/origin/97d20982e27e27e537f37a620057b9e7.png', '____.（5分）')
+{'选项': [], '答案或分析': ['https://p.ananas.chaoxing.com/star3/origin/24d772ad6d4f83c43bad9c301b1f579a.png']}
+('4、', '设函数', ',则', '的拉氏变换等于________.', '三、计算题(本大题共4小题,每题7分,共28分)', '（5分）')
+{'选项': [], '答案或分析': ['https://p.ananas.chaoxing.com/star3/origin/d205647bcd7f966b145bfcc714e01193.png']}
+('三、简答题', '（共4题，60分）')
+('1、', '求函数', 'https://p.ananas.chaoxing.com/star3/origin/da37fdf3d3bf7ebc0e8e5b3fcd7562e3.png', '的傅氏变换。（15分）')
+{'选项': [], '答案或分析': ['https://p.ananas.chaoxing.com/star3/origin/f17e7ff4200eb6ef13852f0d29299ceb.png', 'https://p.ananas.chaoxing.com/star3/origin/d75232427533ea65b7bc124cd1c436ae.png', 'https://p.ananas.chaoxing.com/star3/origin/55d32fc07dcf38c9defec718a7083ea2.png']}
+('2、', '设', 'https://p.ananas.chaoxing.com/star3/origin/c6b6abdd6377db06ef87aa288383f825.png', '. (1)求', 'https://p.ananas.chaoxing.com/star3/origin/0007bb26e795c71092abc2196c93f139.png', '的解析区域,(2)求', 'https://p.ananas.chaoxing.com/star3/origin/47c30129a50d6966008e60ccf4965383.png', '（15分）')
+{'选项': [], '答案或分析': ['https://p.ananas.chaoxing.com/star3/origin/bc131f01a203573981a85c3ad2049ede.png', 'https://p.ananas.chaoxing.com/star3/origin/8c988ba1626afaa5fe4535e937235f8a.png', 'https://p.ananas.chaoxing.com/star3/origin/0007bb26e795c71092abc2196c93f139.png', 'https://p.ananas.chaoxing.com/star3/origin/2b4819b4994f59afa1f93730fca7290f.png', 'https://p.ananas.chaoxing.com/star3/origin/5f77ba43fb029825e145579d63885416.png', 'https://p.ananas.chaoxing.com/star3/origin/3af41f3382d4b3095c900ea9afed2e00.png', 'https://p.ananas.chaoxing.com/star3/origin/571c66cee4b0578413da8b64.png', 'https://p.ananas.chaoxing.com/star3/origin/069bbdeacd4274b9414ea24d556921df.png', 'https://p.ananas.chaoxing.com/star3/origin/1dcbc51aa4bd99dcf6a9f59c851af038.png', 'https://p.ananas.chaoxing.com/star3/origin/5d46d3124f62eb8ad2a4d5f4a4360575.png', 'https://p.ananas.chaoxing.com/star3/origin/e0f27ac0c520c835f52b0ef8ff3e4488.png', 'https://p.ananas.chaoxing.com/star3/origin/711d46d31afabfe5afdb8279a72ca8e0.png', 'https://p.ananas.chaoxing.com/star3/origin/3d714eb4a4d1aa440f95a2801c119f31.png']}
+('3、', '用拉氏变换求解方程', 'https://p.ananas.chaoxing.com/star3/origin/a854d44dabb028269fa78336c37c49ef.png', '（15分）')
+{'选项': [], '答案或分析': ['https://p.ananas.chaoxing.com/star3/origin/1c2723030ac27b69ddcb8421e3911475.png', 'https://p.ananas.chaoxing.com/star3/origin/4c1bef59f4b2edcf59beb0ece1b39562.png', 'https://p.ananas.chaoxing.com/star3/origin/e380dfac8b2095e3b425466a9602bb1b.png']}
+('4、', '将函数', 'https://p.ananas.chaoxing.com/star3/origin/e0ed609848a1d0c2c485650e50135e5b.png', '在点', 'https://p.ananas.chaoxing.com/star3/origin/58b8a1dcc657ae8b58f05a94769e5ca4.png', '处展开为洛朗级数.（15分）')
+{'选项': [], '答案或分析': ['https://p.ananas.chaoxing.com/star3/origin/ad961b05fc8ac204eaecc8d02dca8a0d.png', 'https://p.ananas.chaoxing.com/star3/origin/8251b7c9ea8ddc7b999fe9fcaf2e934e.png', 'https://p.ananas.chaoxing.com/star3/origin/ce38cf39e90ceb8ce6c789f13095f578.png']}
+
+设置列宽
+可以设置每个单元格的宽，同列单元格宽度相同，如果定义了不同的宽度将以最大值准
+‘’’
+table.cell(0,0).width=Cm(10)
+
+#设置行高
+table.rows[0].height=Cm(2)
+
+C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\ProgramData\chocolatey\bin;D:\python3.9\Scripts\;D:\python3.9\;D:\python\Scripts\;D:\python\;C:\Users\jyj34\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;D:\PyCharm 2020.2.3\bin;D:\python\Scripts;C:\Program Files\Google\Chrome\Application\chromedriver.exe;C:\Users\jyj34\Desktop\infospider\embedInfoSpider\Scripts;C:\Users\jyj34\Desktop\infospider\embedInfoSpider\chromedriver.exe;C:\Users\jyj34\AppData\Roaming\npm;D:\Goland\GoLand 2020.2.3\bin;C:\Users\jyj34\go\bin;D:\ffmpeg\bin;C:\adb;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\dotnet\;D:\node\;D:\Git\cmd;D:\go1.16\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\ProgramData\chocolatey\bin;D:\python3.9\Scripts\;D:\python3.9\;D:\python\Scripts\;D:\python\;C:\Users\jyj34\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;D:\PyCharm 2020.2.3\bin;D:\python\Scripts;C:\Program Files\Google\Chrome\Application\chromedriver.exe;C:\Users\jyj34\Desktop\infospider\embedInfoSpider\Scripts;C:\Users\jyj34\Desktop\infospider\embedInfoSpider\chromedriver.exe;C:\Users\jyj34\AppData\Roaming\npm;D:\Goland\GoLand 2020.2.3\bin;C:\Users\jyj34\go\bin;D:\ffmpeg\bin;C:\adb;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\dotnet\;D:\node\;D:\Git\cmd;D:\go1.16\bin
